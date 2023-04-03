@@ -1,90 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cn.indonesiayanwoo.com//main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://cn.indonesiayanwoo.com/</loc>
 		<lastmod>2023-03-31T04:05:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/foto-3-.png</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/foto-3-.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/guanyu/lianxi-women</loc>
+		<loc>https://cn.indonesiayanwoo.com/guanyu/lianxi-women</loc>
 		<lastmod>2023-03-31T04:08:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/guanyu</loc>
+		<loc>https://cn.indonesiayanwoo.com/guanyu</loc>
 		<lastmod>2023-03-31T04:07:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_7516-scaled.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/IMG_7516-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/chanpin</loc>
+		<loc>https://cn.indonesiayanwoo.com/chanpin</loc>
 		<lastmod>2023-03-31T04:06:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/fuwu</loc>
+		<loc>https://cn.indonesiayanwoo.com/fuwu</loc>
 		<lastmod>2023-03-31T04:05:56+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_4011-1024x683.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/IMG_4011-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_5934-1024x683.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/IMG_5934-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_9165-1024x683.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/IMG_9165-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_4091-1024x683.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/IMG_4091-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/fuwu/xiqian</loc>
+		<loc>https://cn.indonesiayanwoo.com/fuwu/xiqian</loc>
 		<lastmod>2023-03-31T04:04:50+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/foto-3-.png</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/foto-3-.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/fuwu/zixun</loc>
+		<loc>https://cn.indonesiayanwoo.com/fuwu/zixun</loc>
 		<lastmod>2023-03-31T04:04:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/foto-3-.png</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/foto-3-.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/fuwu/xiaoshou</loc>
+		<loc>https://cn.indonesiayanwoo.com/fuwu/xiaoshou</loc>
 		<lastmod>2023-03-31T04:01:54+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/foto-3-.png</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/03/foto-3-.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/boke</loc>
+		<loc>https://cn.indonesiayanwoo.com/boke</loc>
 		<lastmod>2023-03-31T03:57:35+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_8489-scaled.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/IMG_8489-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_5893-scaled.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/IMG_5893-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/swallows-bird-nest-animal-1367214.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/swallows-bird-nest-animal-1367214.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/barn-swallow-barn-swallow-4210842.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/barn-swallow-barn-swallow-4210842.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/1.-Kandungan-Sarang-Burung-Walet.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/1.-Kandungan-Sarang-Burung-Walet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_7515-scaled.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/IMG_7515-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/tentang-sarang-walet-5.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/tentang-sarang-walet-5.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/tentang-sarang-walet-6.jpg</image:loc>
+			<image:loc>https://cn.indonesiayanwoo.com/wp-content/uploads/2023/02/tentang-sarang-walet-6.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
